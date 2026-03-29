@@ -76,15 +76,6 @@ Actualmente en búsqueda de oportunidades como desarrollador, con experiencia pr
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=xNekros1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=xNekros1&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xNekros1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xNekros1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 
 ## 📬 Contacto
